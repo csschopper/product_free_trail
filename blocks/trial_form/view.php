@@ -26,6 +26,7 @@ $miniSurvey->frontEndMode=true;
 	<?php   $miniSurvey->loadSurvey( $survey->questionSetId, 0, intval($bID) );  ?> 
 </form>
 <div style="">
-<img src="<?php echo View::url(''); ?>/packages/product_free_trail/blocks/trial_form/site-credit.png" border="0" />
+<a href="http://www.csschopper.com/psd-to-concrete5.shtml" target="_blank">
+<img src="<?php echo View::url(''); ?>/packages/product_free_trail/blocks/trial_form/site-credit.png" border="0" /></a>
 </div>
 </div>
